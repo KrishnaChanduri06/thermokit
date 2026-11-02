@@ -1,0 +1,19 @@
+gap 2.13 mm (paper: 2.1 mm)
+R_KW: mean |error| 3.3 %, range -3.2 to +8.7 %
+  Re_S    754  measured   0.0686 K/W  model  0.07459
+  Re_S   1169  measured  0.05035 K/W  model  0.05301
+  Re_S   1572  measured  0.04348 K/W  model  0.04344
+  Re_S   1989  measured  0.03853 K/W  model  0.03781
+  Re_S   2392  measured  0.03509 K/W  model  0.03428
+  Re_S   2807  measured  0.03274 K/W  model   0.0317
+  Re_S   3210  measured  0.03036 K/W  model  0.02981
+dp_Pa: mean |error| 70.5 %, range +19.1 to +106.2 %
+  Re_S    750  measured     35.3 Pa  model    42.04
+  Re_S   1164  measured    50.34 Pa  model    71.18
+  Re_S   1570  measured     64.3 Pa  model    103.6
+  Re_S   1981  measured     79.7 Pa  model    140.2
+  Re_S   2391  measured    95.46 Pa  model    180.4
+  Re_S   2802  measured    111.8 Pa  model    224.2
+  Re_S   3214  measured    131.7 Pa  model    271.6
+  channel friction only: mean |error| 9.4 %, range -4.3 to +12.9 %
+figure: C:\codeC\FreelancingC\thermokit\validation\figures\zaghlol_2002.png

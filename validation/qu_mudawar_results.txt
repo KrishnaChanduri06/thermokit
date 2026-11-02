@@ -1,0 +1,4 @@
+Thermocouple temperature rise T_tc - T_in, 156 points
+  full model               mean |error|   8.2 %, range  -22.5 to  +19.9 %
+  entry, constant props    mean |error|  11.9 %, range  -19.8 to  +24.8 %
+  fully developed Nu       mean |error|  40.1 %, range   -9.9 to +104.9 %

@@ -1,0 +1,5 @@
+40 Fluent runs, Re 205 to 2295
+  R_th,max  thermokit          mean |error|  3.6 %, range  -2.6 to +10.0 %
+  R_th,max  1-D model in repo  mean |error| 11.2 %, range  -1.9 to +62.5 %
+  Δp channel  thermokit        mean |error|  2.1 %, range  -5.2 to  +9.0 %
+figure: C:\codeC\FreelancingC\thermokit\validation\figures\fluent_design_sweep.png
