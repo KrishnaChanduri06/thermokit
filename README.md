@@ -2,7 +2,7 @@
 
 Thermal design calculations for electronics cooling: chip stacks, air-cooled plate-fin heat sinks and liquid cold plates. Each tool answers in about a second, so a design can be sized and traded off before any CFD is set up. The cold plate model is checked against published experiments and 40 conjugate CFD runs.
 
-Live demo: *(Streamlit link)*
+Live demo: https://thermokit-9pzqpauymjows7w8ddlhzr.streamlit.app/
 
 ## What it answers
 
